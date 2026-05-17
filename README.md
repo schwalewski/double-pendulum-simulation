@@ -1,6 +1,6 @@
 This project presents a numerical solution to a classical physics problem using Python.
 
-![Animation](pendulum.gif)
+![Animation](pendulum_animation.gif)
 
 Physics background:
 
